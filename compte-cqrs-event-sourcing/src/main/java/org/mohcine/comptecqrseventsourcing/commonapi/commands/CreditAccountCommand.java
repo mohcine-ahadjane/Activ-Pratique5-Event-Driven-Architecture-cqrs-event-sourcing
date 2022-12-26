@@ -1,8 +1,10 @@
 package org.mohcine.comptecqrseventsourcing.commonapi.commands;
 
+import lombok.Getter;
+
 public class CreditAccountCommand extends BaseCommand<String>{
-    private double amount;
-    private String currency;
+    @Getter private double amount;
+    @Getter private String currency;
 
     public CreditAccountCommand(String id, double initialBalance, String currency) {
         super(id);
