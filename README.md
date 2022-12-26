@@ -21,6 +21,6 @@
 <img src=".\images\6.png"></img>
 <img src=".\images\7.png"></img>
 <h4>All Accounts</h4>
-<img src=".\images\9.png"></img>
+<img src=".\images\15.png"></img>
 <h4>Consulter account by Id</h4>
-<img src=".\images\14.png"></img>
+<img src=".\images\9.png"></img>
